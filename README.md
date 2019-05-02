@@ -108,4 +108,8 @@ If you use this code in your work, we ask that you cite the paper:
 
 David Pfau, Stig Petersen, Ashish Agarwal, David Barrett, Kim Stachenfeld.
 "Spectral Inference Networks: Unifying Deep and Spectral Learning."
-_The 8th International Conference on Learning Representations (ICLR)_ (2019).
+_The 7th International Conference on Learning Representations (ICLR)_ (2019).
+
+## Acknowledgements
+Special thanks to James Spencer for help with the open-source implementation of
+the code.
