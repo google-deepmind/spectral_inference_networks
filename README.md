@@ -1,6 +1,6 @@
 # Spectral Inference Networks (SpIN)
 This package provides an implementation of Spectral Inference Networks,
-as in [Pfau, Petersen, Agarwal, Barrett and Stachenfeld (2018)](https://arxiv.org/abs/1806.02215).
+as in [Pfau, Petersen, Agarwal, Barrett and Stachenfeld (2019)](https://arxiv.org/abs/1806.02215).
 
 This is not an officially supported Google product.
 
